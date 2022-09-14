@@ -1,0 +1,35 @@
+[
+    { 
+    "id": 1, 
+    "nombre": "Cristal", 
+    "price": 350, 
+    "stock":10, 
+    "codigo": 258, 
+    "thumbnail": "http://localhost:8080/public/1.jpg"
+},
+    { 
+    "id": 2, 
+    "nombre": "Flor", 
+    "price": 550, 
+    "stock":10, 
+    "codigo": 259, 
+    "thumbnail": "http://localhost:8080/public/2.jpg" 
+},
+    { 
+    "id": 3, 
+    "nombre": "Corazón", 
+    "price": 450, 
+    "stock":10, 
+    "codigo": 260, 
+    "thumbnail": "http://localhost:8080/public/3.jpg"
+},
+    { 
+    "id": 4, 
+    "nombre": "Aros", 
+    "price": 700, 
+    "stock":10, 
+    "codigo": 261, 
+    "thumbnail": "http://localhost:8080/public/4.jpg" 
+}
+    
+    ]
